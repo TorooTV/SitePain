@@ -46,7 +46,7 @@ nav {
     background-position-y: 100%;
     background-position-x: 50%;
     background-repeat: no-repeat;
-    transition: background-size ease-in-out 1.3s;
+    transition: background-size ease-in-out 0,4s;
     
 }
 
